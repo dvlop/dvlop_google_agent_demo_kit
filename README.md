@@ -1,5 +1,7 @@
 # Google-Agent request identity check (read-only)
 
+https://x.com/dvlop/status/2123136117285535994
+
 Official Google guidance (published Nov 17, 2026):
 https://developers.google.com/crawling/docs/crawlers-fetchers/allow-google-agent
 
